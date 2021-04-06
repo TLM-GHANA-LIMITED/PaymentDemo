@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Payment Demo</string>
+    <string name="welcome_there">Welcome there!!</string>
+    <string name="click_to_pay_for_the_banana">Click to pay for the Banana</string>
+</resources>
